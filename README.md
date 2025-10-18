@@ -1,4 +1,4 @@
-# SMARTCLAIMATE---IBM-Watson
+# SMARTCLAIMATE-IBM-Watson
 A RAG-powered virtual assistant built with IBM watsonx.ai for insurance claim support.
 SMARTCLAIMATE
 A RAG-powered virtual assistant built with IBM watsonx.ai for insurance claim support. Smart-ClaimMate A RAG-powered virtual assistant built with IBM watsonx.ai for insurance claim support.
